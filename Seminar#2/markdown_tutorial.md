@@ -24,7 +24,9 @@
 документа.
 
 ## Работа с цитатами
-Цитаты оформляются как в емейлах, с помощью символа > .
+
+
+**Цитаты оформляются как в емейлах, с помощью символа >**.
 This is a blockquote with two paragraphs. Lorem ipsum dolor
 sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi
 posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in,
