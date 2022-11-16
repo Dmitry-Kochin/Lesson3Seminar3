@@ -32,7 +32,7 @@ Content Cell | Content Cell
 жирный или зачеркнутый текст.
 Для всего остального есть обычный HTML.
 Воспользуйтесь тэгом table:
-```
+```HTML
 <table><td><tr>drdrdrdrrd</td></tr></table>
 ```
 
